@@ -4,19 +4,19 @@ import { FaGithub, FaInstagram, FaLinkedinIn, FaTwitter } from "react-icons/fa";
 const Contact = () => {
   const contact = [
     {
-      link: "",
+      link: "https://www.instagram.com/achintha0110/",
       item: <FaInstagram />,
     },
     {
-      link: "",
+      link: "https://www.linkedin.com/in/achintha-prabasha-829894260/",
       item: <FaLinkedinIn />,
     },
     {
-      link: "",
+      link: "https://github.com/AchinthaPrabash3",
       item: <FaGithub />,
     },
     {
-      link: "",
+      link: "https://x.com/PrabashAch10994",
       item: <FaTwitter />,
     },
   ];
