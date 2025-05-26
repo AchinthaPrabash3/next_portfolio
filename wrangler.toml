@@ -1,2 +1,5 @@
 name = "achintha-portfolio"
 compatibility_date = "2025-05-26"
+
+[site]
+bucket = "./public"
