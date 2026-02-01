@@ -19,7 +19,7 @@ export const datasets = [
     name: "dribbble design to code",
     tech: ["react", "tailwindcss", "html", "Motion.dev"],
     img: frame8,
-    link: "https://github.com/AchinthaPrabash3/Dribble-design-to-code02.git",
+    link: "https://dribble-design-to-code02.vercel.app/",
     des: "I came across this stunning design on Dribbble and was instantly inspired to bring it to life. I transformed the concept into a fully functional, responsive website using React, Tailwind CSS, and Framer Motion for smooth, modern animations. Every interaction and layout was carefully crafted to stay true to the original design while ensuring performance and usability across devices. It’s always exciting to turn creative visuals into real, working web experiences! 🚀",
   },
   {
