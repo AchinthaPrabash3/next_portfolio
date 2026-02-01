@@ -41,7 +41,7 @@ export default function RootLayout({ children }) {
             <span className="font-bold">Achintha Prabasha</span>
           </p>
           <p className="text-xs text-black">
-            <span className="font-bold">thefrontenddev33@gmail.com</span>
+            <span className="font-bold">achinthaprabash3@gmail.com</span>
           </p>
         </div>
       </body>
